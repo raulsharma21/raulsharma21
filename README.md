@@ -10,11 +10,12 @@ From cofounding [**Santa Clara Quant**](https://www.santaclaraquant.com)—a qua
 
 ## Skills in Action
 
-- Built scalable CI/CD pipelines and deployed containerized apps during my internships at **Graphic Packaging International** and **eClerx**.
+- Built scalable CI/CD pipelines and deployed containerized apps during my internship at **Graphic Packaging International**.
 - Developed a automated arbitrage sports betting scripts using **Python**, to identify profit opportunities.
 - Designed robust backend systems using **Flask APIs** and integrated them with modern frontends like **Next.js**.
+- Worked on researching and comparing open-source generative language models for different clients' use cases during my internship at **eClerx**.
 
-Connect with me or explore my projects to see how I combine technology and innovation to solve real-world challenges!
+Connect with me or explore my projects!
 
 <!--
 **raulsharma21/raulsharma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
