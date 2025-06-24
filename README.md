@@ -2,19 +2,19 @@
 
 **Aspiring Technologist & Quantitative Thinker | Santa Clara University '26**
 
-Hello! I'm Raul Sharma, a Computer Science and Mathematics double major with a strong emphasis on Security and Financial Mathematics. I'm passionate about using new technologies and innovative problem-solving to create actual impact.
+Hello! I'm Raul Sharma, a Computer Science and Mathematics double major with emphases on Computer Security and Mathematical Finance. 
 
 ## What Drives Me
 
-From cofounding [**Santa Clara Quant**](https://www.santaclaraquant.com)—a quantitative finance club—to developing [**PosterOven**](https://posteroven.vercel.app), a full-stack web app for generating custom Spotify posters, I thrive at the intersection of creativity and technology. My journey has taken me through diverse experiences, including real-time embedded systems research, fintech-focused data engineering, and machine learning for NLP.
+From cofounding [**Santa Clara Quant**](https://www.santaclaraquant.com)—a quantitative finance club—to developing [**PosterOven**](https://posteroven.vercel.app), a full-stack web app for generating custom Spotify posters, I thrive at the intersection of creativity and technology. My journey has taken me through diverse experiences, including Deep Neural Network research, Volatility Modelling for Cryptocurrencies and .
 
 ## Skills in Action
 
+- Conducted research with professors in the Influence Maximization and Cryptocurrency fields.
 - Built scalable CI/CD pipelines and deployed containerized apps during my internship at **Graphic Packaging International**.
-- Developed a automated arbitrage sports betting scripts using **Python**, to identify profit opportunities.
-- Designed robust backend systems using **Flask APIs** and integrated them with modern frontends like **Next.js**.
-- Worked on researching and comparing open-source generative language models for different clients' use cases during my internship at **eClerx**.
-
+- Developed a **automated arbitrage scripts**, to identify risk-free profit opportunities in sports.
+- Designed robust **backend systems** using Flask APIs and integrated them with modern frontends like **Next.js**.
+  
 Connect with me or explore my projects!
 
 <!--
