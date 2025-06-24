@@ -1,21 +1,25 @@
 # Raul Sharma
 
-**Aspiring Technologist & Quantitative Thinker | Santa Clara University '26**
+**Mathematics & Computer Science | Santa Clara University '26**
 
-Hello! I'm Raul Sharma, a Computer Science and Mathematics double major with emphases on Computer Security and Mathematical Finance. 
 
-## What Drives Me
+## About Me
 
-From cofounding [**Santa Clara Quant**](https://www.santaclaraquant.com)—a quantitative finance club—to developing [**PosterOven**](https://posteroven.vercel.app), a full-stack web app for generating custom Spotify posters, I thrive at the intersection of creativity and technology. My journey has taken me through diverse experiences, including Deep Neural Network research, Volatility Modelling for Cryptocurrencies and .
+From cofounding [**Santa Clara Quant**](https://www.santaclaraquant.com)—a quantitative finance club—to developing [**PosterOven**](https://posteroven.vercel.app), a full-stack web app for generating custom Spotify posters, I'm passionate about creating. My journey has taken me through diverse experiences, including Academic Research, Software Development Internships and building projects I'm passionate about.
 
 ## Skills in Action
 
-- Conducted research with professors in the Influence Maximization and Cryptocurrency fields.
+- Conducted reseach into a constrained influence maximization problem incorporating **deep reinforcement learning**.
+- Researched the centrality of **cryptocurrencies** and their correlation with volatility.
 - Built scalable CI/CD pipelines and deployed containerized apps during my internship at **Graphic Packaging International**.
 - Developed a **automated arbitrage scripts**, to identify risk-free profit opportunities in sports.
 - Designed robust **backend systems** using Flask APIs and integrated them with modern frontends like **Next.js**.
   
-Connect with me or explore my projects!
+Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-sharma-046937256/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsharma7@scu.edu)
+
 
 <!--
 **raulsharma21/raulsharma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
